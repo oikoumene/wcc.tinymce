@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<object>
+ <resourcetypes>
+  <customplugins purge="False">
+   <element value="imagecaption|/++resource++wcc.tinymce/imagecaption/editor_plugin.js"/>
+   <element value="imagecaptionleft|/++resource++wcc.tinymce/imagecaptionleft/editor_plugin.js"/>
+  </customplugins>
+ </resourcetypes>
+ <toolbar>
+  <customtoolbarbuttons purge="False">
+   <element value="imagecaptionleft"/>
+   <element value="imagecaption"/>
+  </customtoolbarbuttons>
+ </toolbar>
+</object>
