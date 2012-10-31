@@ -11,6 +11,12 @@
 
 .imagecaption .image-credit {
     margin-bottom:0 !important;
+    font-size:85%;
+}
+
+.imagecaption .image-credit .discreet-small {
+    font-size:85%;
+    color:#555;
 }
 
 .imagecaptionright {
