@@ -4,7 +4,7 @@ import os
 version = '1.1.dev0'
 
 long_description = (
-    open('README.txt').read()
+    open('README.rst').read()
     + '\n' +
     'Contributors\n'
     '============\n'
@@ -24,9 +24,9 @@ setup(name='wcc.tinymce',
         "Programming Language :: Python",
         ],
       keywords='',
-      author='',
-      author_email='',
-      url='http://svn.plone.org/svn/collective/',
+      author='Inigo Consulting',
+      author_email='team@inigo-tech.com',
+      url='https://github.com/inigoconsulting/wcc.tinymce',
       license='gpl',
       packages=find_packages('src'),
       package_dir = {'': 'src'},
